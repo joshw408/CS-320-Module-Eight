@@ -1,1 +1,10 @@
 # CS-320
+
+**How can I ensure that my code, program, or software is functional and secure?**
+I make sure my software is functional by starting with clear requirements and then writing unit tests that confirm the code behaves the way it is supposed to. I focus on testing and also edge cases and invalid inputs so problems are caught early. Running tests often helps me catch bugs right away when changes are made. From a security standpoint, I pay close attention to input validation, enforcing constraints, and handling errors properly so the application does not end up in an unexpected state. I also follow secure coding best practices, such as avoiding hardcoded values, keeping dependencies up to date, and reviewing my code for potential risks before considering it complete.
+
+**How do I interpret user needs and incorporate them into a program?**
+I interpret user needs by breaking the requirements down into clear, specific behaviors that the software must follow. When a requirement is unclear, I think about what the user is really trying to accomplish and translate that into rules the program can enforce. I then build my code and unit tests directly around those rules so the final product matches what the user expects. I also try to think like the user by considering how they might use the feature, what mistakes they could make, and how the system should respond. This approach helps ensure the software works in real-world situations, not just ideal ones.
+
+**How do I approach designing software?**
+When I design software, I start by understanding the problem and then creating a simple structure that keeps responsibilities clearly separated. I aim to keep each class or service focused on one main purpose so the code is easier to read, test, and maintain. I build the software in small steps, testing along the way, rather than trying to do everything at once. As I work, I refactor when needed to improve clarity without changing how the program behaves. This process helps me create software that is reliable, easy to understand, and easier to update in the future.
